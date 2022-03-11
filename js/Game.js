@@ -406,7 +406,7 @@ class Game {
   }
 
   end(){
-  console.log(gameOver());
+  console.log(this.gameOver());
   
   }
 }
